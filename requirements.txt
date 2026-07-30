@@ -1,0 +1,29 @@
+# ---- Core AI / ML ----
+sentence-transformers      # turn text into vector embeddings (local, free)
+faiss-cpu                  # vector database for similarity search / RAG
+transformers               # HuggingFace models (fine-tuning, DistilBERT)
+torch                      # deep learning backend used by the above
+peft                       # LoRA / parameter-efficient fine-tuning
+accelerate                 # speeds up + manages training
+datasets                   # load & handle training data
+
+# ---- LLM APIs ----
+anthropic                  # Claude API (resume analysis)
+openai                     # OpenAI API (embeddings / fallback)
+
+# ---- Data science & evaluation ----
+scikit-learn               # metrics (F1, confusion matrix), t-SNE
+pandas                     # tables / data wrangling
+numpy                      # numerical arrays
+matplotlib                 # plots
+seaborn                    # nicer plots
+
+# ---- Resume/document parsing ----
+pypdf                      # read text from PDF resumes
+python-docx                # read text from DOCX resumes
+
+# ---- App & notebooks ----
+streamlit                  # demo web UI
+jupyter                    # notebooks
+ipykernel                  # lets the conda env show up in Jupyter/VS Code
+python-dotenv              # load API keys from a .env file

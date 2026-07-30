@@ -1,0 +1,28 @@
+# --- Secrets (NEVER commit API keys) ---
+.env
+.env.local
+*.key
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+
+# --- Data & model artifacts (too big / regenerable) ---
+*.faiss
+*.index
+models/
+*.bin
+*.safetensors
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
