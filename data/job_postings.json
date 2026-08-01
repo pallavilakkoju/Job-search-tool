@@ -1,0 +1,12 @@
+[
+  { "title": "Machine Learning Engineer", "company": "NovaAI", "description": "Build and deploy machine learning models in Python using PyTorch and scikit-learn. Work on NLP and recommendation systems." },
+  { "title": "Data Scientist", "company": "Insightly", "description": "Analyze large datasets, build predictive models, and create dashboards. Strong Python, SQL, and statistics required." },
+  { "title": "Deep Learning Researcher", "company": "DeepCore", "description": "Research neural network architectures for computer vision. Experience with transformers, CNNs, and PyTorch." },
+  { "title": "Backend Software Engineer", "company": "Streamline", "description": "Design REST APIs and microservices in Python and Go. Work with PostgreSQL, Docker, and cloud infrastructure." },
+  { "title": "Frontend Developer", "company": "PixelWorks", "description": "Build responsive web interfaces with React, TypeScript, and Tailwind CSS. Focus on performance and accessibility." },
+  { "title": "Digital Marketing Manager", "company": "BrandUp", "description": "Lead social media campaigns, SEO, and content strategy. Manage Instagram and TikTok growth and advertising budgets." },
+  { "title": "Content Writer", "company": "WordCraft", "description": "Write blog posts, newsletters, and marketing copy. Strong storytelling and SEO writing skills required." },
+  { "title": "Financial Analyst", "company": "CapitalEdge", "description": "Build financial models, analyze market trends, and prepare investment reports using Excel and Python." },
+  { "title": "Product Designer", "company": "FormFactor", "description": "Design user experiences and interfaces in Figma. Conduct user research and build prototypes." },
+  { "title": "Data Engineer", "company": "PipelinePro", "description": "Build ETL data pipelines with Python, Spark, and Airflow. Manage data warehouses on AWS." }
+]
